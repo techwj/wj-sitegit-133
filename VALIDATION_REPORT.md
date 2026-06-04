@@ -1,0 +1,88 @@
+# Validation Report - pet-travel-guide
+
+Generated: 2026-06-04T11:36:29.350398
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Pet Travel Guide
+- ✓ Article word count OK: Beginner Pet Travel Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Pet Travel Guide
+- ✓ Article word count OK: Beginner Pet Travel Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Pet Travel Guide
+- ✓ Article word count OK: Beginner Pet Travel Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Pet Travel Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Pet Travel Guide
+- ✓ Article word count OK: Beginner Pet Travel Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Pet Travel Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Pet Travel Guide
+- ✓ Article word count OK: Advanced Pet Travel Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Pet Travel Guide
+- ✓ Article word count OK: Advanced Pet Travel Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Pet Travel Guide
+- ✓ Article word count OK: Advanced Pet Travel Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Pet Travel Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Pet Travel Guide
+- ✓ Article word count OK: Advanced Pet Travel Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Pet Travel Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Pet Travel Guide Tips
+- ✓ Article word count OK: Pet Travel Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Pet Travel Guide Tips
+- ✓ Article word count OK: Pet Travel Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Pet Travel Guide Tips
+- ✓ Article word count OK: Pet Travel Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Pet Travel Guide Tips
+- ✓ Article word count OK: Common Mistakes in Pet Travel Guide Tips
+- ✓ Article word count OK: Pet Travel Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Pet Travel Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Pet Travel Guide History
+- ✓ Article word count OK: Pet Travel Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Pet Travel Guide History
+- ✓ Article word count OK: Pet Travel Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Pet Travel Guide History
+- ✓ Article word count OK: Pet Travel Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Pet Travel Guide History
+- ✓ Article word count OK: Common Mistakes in Pet Travel Guide History
+- ✓ Article word count OK: Pet Travel Guide History for Beginners
+- ✓ Article word count OK: Advanced Pet Travel Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Pet Travel Guide
+- ✓ Article word count OK: Trending Pet Travel Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Pet Travel Guide
+- ✓ Article word count OK: Trending Pet Travel Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Pet Travel Guide
+- ✓ Article word count OK: Trending Pet Travel Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Pet Travel Guide
+- ✓ Article word count OK: Common Mistakes in Trending Pet Travel Guide
+- ✓ Article word count OK: Trending Pet Travel Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Pet Travel Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Pet Travel Guide Tutorials
+- ✓ Article word count OK: Pet Travel Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Pet Travel Guide Tutorials
+- ✓ Article word count OK: Pet Travel Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Pet Travel Guide Tutorials
+- ✓ Article word count OK: Pet Travel Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Pet Travel Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Pet Travel Guide Tutorials
+- ✓ Article word count OK: Pet Travel Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Pet Travel Guide Tutorials Techniques
+- ✓ Ad configuration validated
